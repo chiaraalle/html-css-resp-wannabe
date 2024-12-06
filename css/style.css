@@ -127,3 +127,15 @@ img {
 /************************************************
     SOLUZIONE RESPONSIVE
  ************************************************/
+
+
+@media screen and (min-width: 768px) {
+    .site-header {
+        width: 100%;
+    }
+
+    h1.text-center {
+        text-align: center;
+    }
+    
+}
